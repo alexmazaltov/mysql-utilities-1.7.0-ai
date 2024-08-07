@@ -1,4 +1,4 @@
-MySQL Utilities 1.6
+MySQL Utilities 1.7
 
 This is a release of MySQL Utilities, the dual-license, complete 
 database modeling, administration and development program for MySQL. 
@@ -689,4 +689,9 @@ copyrighted by Sun Microsystems, Inc. The original license terms of
 the HTML Library software distribution is included in the file
 docs/license.html_lib.
 
-*****************************************************************
+*****************************************************************:
+
+Credits
+- ddev community on discord https://discord.gg/5wjP76mBJD, https://discord.com/channels/664580571770388500/1270714970472054875
+- @rfay
+- @stasadev
